@@ -30,15 +30,15 @@
 
 ---
 
+
 ## 🌟 Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 🤖 **Student Assistant AI** | AI-powered learning app with chat, notes, quizzes, bookmarks, and history using Gemini AI. |
-| ✅ **TaskFlow** | Task management app with authentication and REST API integration. |
-| 💼 **Portfolio Builder** | Flutter application for creating and sharing professional portfolios. |
-| 💊 **Pharmacy Management System** | Desktop application for managing pharmacy inventory and operations. |
-
+| 🤖 **Student Assistant AI** | AI-powered Flutter application that explains concepts, generates study notes, creates quizzes, and saves bookmarks using the Gemini AI API. |
+| 🏋️ **Gym Fitness App** | A Flutter-based fitness application that helps users explore workout routines, track exercises, monitor fitness progress, and achieve their health goals through a modern and intuitive interface. |
+| 🦠 **COVID-19 Tracker** | A Flutter application that provides real-time COVID-19 statistics, country-wise case tracking, and informative visualizations using REST APIs. |
+| 📧 **Spam Mail Detector** | A Python machine learning application that uses Natural Language Processing (NLP) to classify emails as spam or legitimate with high accuracy. |
 ---
 
 ## 📊 GitHub Statistics
