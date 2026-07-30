@@ -1,70 +1,109 @@
 <h1 align="center">Hi 👋, I'm Kashmir Jamshaid</h1>
 
+<h3 align="center">
+Software Engineering Student • Flutter Developer • AI Enthusiast
+</h3>
+
 <p align="center">
-  <b>Software Engineering Student • Flutter Developer • AI Enthusiast</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+AI-powered+Flutter+Apps;Flutter+Developer;Software+Engineering+Student;Always+Learning+Always+Building" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+AI-powered+Flutter+apps;Creating+clean+and+responsive+mobile+UIs;Always+learning.+Always+building." alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=kashmirjamshaid&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 Software Engineering Student
-- 📱 Flutter Developer passionate about mobile application development
-- 🤖 Building AI-powered applications with Gemini AI
-- 💡 Interested in creating clean, responsive, and user-friendly interfaces
+- 📱 Flutter Developer passionate about cross-platform mobile apps
+- 🤖 Building AI-powered Flutter applications using Gemini AI
+- 💡 Interested in clean UI/UX and responsive applications
+- 🌱 Currently learning AI Integration & Advanced Flutter
 - 📍 Faisalabad, Pakistan
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,cs,javascript,html,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,cs,javascript,html,css,git,github,vscode,figma" />
 
 </p>
 
 ---
 
-
-## 🌟 Featured Projects
+# 🌟 Featured Projects
 
 | Project | Description |
 |---------|-------------|
 | 🤖 **Student Assistant AI** | AI-powered Flutter application that explains concepts, generates study notes, creates quizzes, and saves bookmarks using the Gemini AI API. |
-| 🏋️ **Gym Fitness App** | A Flutter-based fitness application that helps users explore workout routines, track exercises, monitor fitness progress, and achieve their health goals through a modern and intuitive interface. |
-| 🦠 **COVID-19 Tracker** | A Flutter application that provides real-time COVID-19 statistics, country-wise case tracking, and informative visualizations using REST APIs. |
-| 📧 **Spam Mail Detector** | A Python machine learning application that uses Natural Language Processing (NLP) to classify emails as spam or legitimate with high accuracy. |
+| 🏋️ **Gym Fitness App** | Flutter fitness application for workouts, progress tracking, and healthy lifestyle management. |
+| 🦠 **COVID-19 Tracker** | Flutter application displaying real-time COVID-19 statistics using REST APIs. |
+| 📧 **Spam Mail Detector** | Python Machine Learning project using NLP to classify spam and legitimate emails. |
+
 ---
 
-## 📊 GitHub Statistics
-
-
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kashmirjamshaid&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kashmirjamshaid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=kashmirjamshaid&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashmirjamshaid&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🤝 Connect with Me
+# 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kashmir-khan-9aa23430b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="mailto:khankashmir488@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kashmirjamshaid&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kashmirjamshaid&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/kashmir-khan-9aa23430b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:khankashmir488@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <i>💬 Open to internships, collaborations, and Flutter development opportunities.</i>
+
+### 💬 Open to internships, collaborations, and Flutter development opportunities.
+
+⭐ Thanks for visiting my profile! Have a great day.
+
 </p>
